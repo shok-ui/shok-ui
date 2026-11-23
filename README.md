@@ -25,6 +25,8 @@ I build end-to-end products — from low-level systems programming in C/C++ to c
 
 ## Projects
 
+**[Penny](https://github.com/shok-ui/penny-bot)** — a personal finance Telegram bot: expense and income tracking, monthly budgets with progress warnings, period reports and CSV export. Node.js, grammY, MongoDB, with a unit and integration test suite.
+
 **[ShokShop](https://github.com/shok-ui/shokshop)** — a premium tech & lifestyle e-commerce store: product catalog, search, filters, cart and full checkout flow, built with Next.js 16, TypeScript, Tailwind CSS 4, shadcn/ui and Prisma.
 
 ## What I Do
